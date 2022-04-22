@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 33
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables: []
+    totalSpriteSurfaceArea: 2641685
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e4e0946080b972240924b05402e8c24d, type: 3}
+  - {fileID: 21300000, guid: dfeb9991500f8ac48931e4e151e13101, type: 3}
+  - {fileID: 21300000, guid: 5f47d602fd075a040b9003326f6ddf88, type: 3}
+  - {fileID: 21300000, guid: bcbc85b239080a14c9960e575a011926, type: 3}
+  - {fileID: 21300000, guid: d967cdb241f46e54986c844df4224027, type: 3}
+  - {fileID: 21300000, guid: b6e051c26583b004f8f855ca815d2425, type: 3}
+  - {fileID: 21300000, guid: 1aa6f05387e091747be5938519afaa2b, type: 3}
+  - {fileID: 21300000, guid: 3646ef930e6b2994db07379a266feecb, type: 3}
+  - {fileID: 21300000, guid: 9c71b1c31be24c04994e74fee73e4a14, type: 3}
+  - {fileID: 21300000, guid: 70bfc2743baf43a468a2b0a77084c5c1, type: 3}
+  - {fileID: 21300000, guid: 561a63d42bc043440a1e0cdb4c258e95, type: 3}
+  - {fileID: 21300000, guid: 21096a05eec2504499cc7cb7ecaa5671, type: 3}
+  - {fileID: 21300000, guid: 81a52e257f5294d4fb6bb9a4b53be5ec, type: 3}
+  - {fileID: 21300000, guid: 6ca09e45c1ff601419f76c051cd7ecb4, type: 3}
+  - {fileID: 21300000, guid: 368703e5f20f95341b0751c8a192c96b, type: 3}
+  - {fileID: 21300000, guid: 83ae6f06387c8844ab67acae993b51e7, type: 3}
+  - {fileID: 21300000, guid: 3980c01679853db4aa5ac9b6f71d7916, type: 3}
+  - {fileID: 21300000, guid: af3b59562ebd1354e9edab2494641a3c, type: 3}
+  - {fileID: 21300000, guid: 829f6e56378c7e44381412c126becea4, type: 3}
+  - {fileID: 21300000, guid: c2708666d4d8c8d47b987c22468bb1b8, type: 3}
+  - {fileID: 21300000, guid: 0059386630bd5444cb2534bb6ee3dcd3, type: 3}
+  - {fileID: 21300000, guid: c9e68876d78d97348bdf1a7f50303093, type: 3}
+  - {fileID: 21300000, guid: 67aae0278c3ff3a42aca0c99a97c0981, type: 3}
+  - {fileID: 21300000, guid: 02e94c57d5c56364a80038c64a5b86b0, type: 3}
+  - {fileID: 21300000, guid: 923b43d715ea41545b9653c8f2cd9671, type: 3}
+  - {fileID: 21300000, guid: 65e0074815a33634e99a2b009880ee72, type: 3}
+  - {fileID: 21300000, guid: 936b1509f7d676b4c8c728f2e1b1ee55, type: 3}
+  - {fileID: 21300000, guid: 46b12b09d285a83418cb37d0c6679f43, type: 3}
+  - {fileID: 21300000, guid: c77e0ac9801314f45aad636ace2e92bb, type: 3}
+  - {fileID: 21300000, guid: f6046bc9e407f1d469c5331048ca2b8f, type: 3}
+  - {fileID: 21300000, guid: 739a272aa24d2494893673b3e6c8ce40, type: 3}
+  - {fileID: 21300000, guid: 03cb914bc3472684b9f9fefe11f660d9, type: 3}
+  - {fileID: 21300000, guid: 813b1efb068243f47a299c67439ef77c, type: 3}
+  - {fileID: 21300000, guid: 4b8444ac1378eea4f84fc081380abbd5, type: 3}
+  - {fileID: 21300000, guid: 2a7e36fc290fcb247843c4d114c901fa, type: 3}
+  - {fileID: 21300000, guid: dd07311d7c4a68445b4c8345985d4d52, type: 3}
+  - {fileID: 21300000, guid: f9478ecd25773794e934ec7bd19b646e, type: 3}
+  - {fileID: 21300000, guid: 29b7b25e80fda8148b045bae0de8b887, type: 3}
+  - {fileID: 21300000, guid: d4707eaef6f677e48b69c37a713f173a, type: 3}
+  - {fileID: 21300000, guid: d54afddea129330499dc9c9b23096a73, type: 3}
+  - {fileID: 21300000, guid: a5b6cbcfec11bcc428784affa0bae14a, type: 3}
+  - {fileID: 21300000, guid: e74308ef8afe26b4ebbecdfa28667078, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ShopVideoAdButton
+  - SelectedItemHighlight
+  - LevelProgressBackground
+  - GalleryButton
+  - ProgressbarInactiveBonus
+  - ShopTabBackgroundInactive
+  - Coin
+  - LoadingBar2Overlay
+  - ProgressbarInactive
+  - SettingsButton
+  - FingerNormal
+  - BonusLevelText
+  - RestartButton2
+  - ShopBackground
+  - YesButton
+  - LoadingBarInside
+  - LevelPassedText
+  - ShopButton
+  - GameLogo
+  - PlayButton2
+  - LockedItem
+  - ContinueButton
+  - ShopExitButton
+  - LoadingBar3
+  - FeverModeBar
+  - FingerTapped
+  - White
+  - LoadingBar1
+  - LoadingBar2Background
+  - CoinNoBackground
+  - ShopTabBackgroundActive
+  - LoadingBarOutline
+  - TutorialHand
+  - SettingsVibration
+  - RestartButton
+  - NoButton
+  - ProgressbarActive
+  - PlayButton
+  - ClaimButton
+  - ShopBuyButton
+  - GalleryBackground
+  - TutorialBackground
+  m_Tag: UIAtlas
+  m_IsVariant: 0
